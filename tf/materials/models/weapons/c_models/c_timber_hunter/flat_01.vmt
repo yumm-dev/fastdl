@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-		"$basetexture" "console/models/workshop/weapons/c_models/c_sniperrifle/flat_01"
+		"$basetexture" "models\weapons\c_models\c_timber_hunter\flat_01"
 
 			 "$lightwarptexture" "models\lightwarps\weapon_lightwarp"
 

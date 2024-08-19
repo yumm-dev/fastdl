@@ -1,6 +1,6 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "console/models/workshop/weapons/c_models/c_sniperrifle/glass_01"
+	"$basetexture" "models\weapons\c_models\c_timber_hunter\glass_01"
 
 	"$basemapalphaphongmask" "1"
 	"$basealphaenvmapmask" "1"

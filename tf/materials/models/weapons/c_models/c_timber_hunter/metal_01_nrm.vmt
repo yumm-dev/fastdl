@@ -1,5 +1,5 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "console/models/workshop/weapons/c_models/c_sniperrifle/metal_01_nrm"
+	"$basetexture" "models\weapons\c_models\c_timber_hunter\metal_01_nrm"
 }
 
